@@ -5,6 +5,11 @@ We have 2 types of webpages
 
 Tages: Tags are predefined word. Ex: data types in programming languages
 2 types:
-
 1. Container Tags- pair tags
 2. Empty tags- single tags
+
+Example:
+
+<h1> Hello world </h1> Element
+<h1 class = "primary"> Hello world </h1>
+"Class" is the attribute name, "Primary" is the Attribute value
