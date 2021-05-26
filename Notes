@@ -13,3 +13,10 @@ Example:
 <h1> Hello world </h1> Element
 <h1 class = "primary"> Hello world </h1>
 "Class" is the attribute name, "Primary" is the Attribute value
+
+Empty tags: 
+line break <br> or </br> or <br/>
+horizotal line <hr>or </hr> or <hr/>
+
+Container tags:
+<body bgcolor="yellow">
