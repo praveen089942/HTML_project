@@ -23,3 +23,10 @@ Container tags:
 alignment: 
 
 font: <font size="8"> </font>
+face attribute: to change the text format
+
+marquee tag:
+-- It's a container tag
+-- to scroll the text from left to right, right to left
+-- you can add other attributes to this tag
+-- you can increase the decrease the speed 
