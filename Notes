@@ -30,3 +30,11 @@ marquee tag:
 -- to scroll the text from left to right, right to left
 -- you can add other attributes to this tag
 -- you can increase the decrease the speed 
+Marquee tag attributes:
+direction: right to left, center, up, down
+scrollamount = "50" to scroll the text speed
+bgcolor
+
+Lists: 
+- Bullets- Unordered lists <ul>
+- numberings- ordered lists <ol>
