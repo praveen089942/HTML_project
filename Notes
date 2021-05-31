@@ -38,3 +38,7 @@ bgcolor
 Lists: 
 - Bullets- Unordered lists <ul>
 - numberings- ordered lists <ol> tags--type, start
+
+Images: 
+- There is no ending tag for It
+<img src="link of the path or the image">
