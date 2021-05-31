@@ -43,3 +43,6 @@ Images:
 - There is no ending tag for It
 <img src="link of the path or the image">
 attributes: align, background etc.,
+
+Text links:
+<a href="URL"></a>
