@@ -46,3 +46,15 @@ attributes: align, background etc.,
 
 Text links:
 <a href="URL"></a>
+image to open in the next page: <a href="URL" target="blank'></a>
+
+Adding link to an image:
+<a href="URL"><img src="img.jpg"</a>
+
+Tables:
+Tags:
+<table></table>
+rows <tr> </tr>
+columns <td> </td>
+heading <th> </th>
+
